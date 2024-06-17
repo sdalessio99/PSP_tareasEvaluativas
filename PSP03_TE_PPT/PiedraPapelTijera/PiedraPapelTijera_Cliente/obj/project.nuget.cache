@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "QT7gp692YPpT59lmnxySXrRHNg/H19+AhbVn//ovV0kivWzw0ND+9K8jX3gy7c/Fr6CSqvSQap6sxkGgcvWxbg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\igortazar\\Documents\\DAM\\PSP\\2023_2024\\UD03\\PSP03_TE_Solucion_2023_2024\\PSP03_TE_PPT\\PiedraPapelTijera\\PiedraPapelTijera_Cliente\\PiedraPapelTijera_Cliente.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\igortazar\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.26\\microsoft.windowsdesktop.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\igortazar\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.26\\microsoft.netcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\igortazar\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.26\\microsoft.aspnetcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\igortazar\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.26\\microsoft.netcore.app.host.win-x64.6.0.26.nupkg.sha512"
+  ],
+  "logs": []
+}
