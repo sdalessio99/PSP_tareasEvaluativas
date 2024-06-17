@@ -1,0 +1,25 @@
+C:\Users\Sara D'Alessio\Documents\BIRT\DAM\PSP\PSP04_ TE1_PeliculasBirt\obj\Debug\net8.0-windows\PSP04_ TE1_PeliculasBirt.csproj.AssemblyReference.cache
+C:\Users\Sara D'Alessio\Documents\BIRT\DAM\PSP\PSP04_ TE1_PeliculasBirt\obj\Debug\net8.0-windows\PSP04__TE1_PeliculasBirt.Form1.resources
+C:\Users\Sara D'Alessio\Documents\BIRT\DAM\PSP\PSP04_ TE1_PeliculasBirt\obj\Debug\net8.0-windows\PSP04_ TE1_PeliculasBirt.csproj.GenerateResource.cache
+C:\Users\Sara D'Alessio\Documents\BIRT\DAM\PSP\PSP04_ TE1_PeliculasBirt\obj\Debug\net8.0-windows\PSP04_ TE1_PeliculasBirt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sara D'Alessio\Documents\BIRT\DAM\PSP\PSP04_ TE1_PeliculasBirt\obj\Debug\net8.0-windows\PSP04_ TE1_PeliculasBirt.AssemblyInfoInputs.cache
+C:\Users\Sara D'Alessio\Documents\BIRT\DAM\PSP\PSP04_ TE1_PeliculasBirt\obj\Debug\net8.0-windows\PSP04_ TE1_PeliculasBirt.AssemblyInfo.cs
+C:\Users\Sara D'Alessio\Documents\BIRT\DAM\PSP\PSP04_ TE1_PeliculasBirt\obj\Debug\net8.0-windows\PSP04_ TE1_PeliculasBirt.csproj.CoreCompileInputs.cache
+C:\Users\Sara D'Alessio\Documents\BIRT\DAM\PSP\PSP04_ TE1_PeliculasBirt\bin\Debug\net8.0-windows\PSP04_ TE1_PeliculasBirt.exe
+C:\Users\Sara D'Alessio\Documents\BIRT\DAM\PSP\PSP04_ TE1_PeliculasBirt\bin\Debug\net8.0-windows\PSP04_ TE1_PeliculasBirt.deps.json
+C:\Users\Sara D'Alessio\Documents\BIRT\DAM\PSP\PSP04_ TE1_PeliculasBirt\bin\Debug\net8.0-windows\PSP04_ TE1_PeliculasBirt.runtimeconfig.json
+C:\Users\Sara D'Alessio\Documents\BIRT\DAM\PSP\PSP04_ TE1_PeliculasBirt\bin\Debug\net8.0-windows\PSP04_ TE1_PeliculasBirt.dll
+C:\Users\Sara D'Alessio\Documents\BIRT\DAM\PSP\PSP04_ TE1_PeliculasBirt\bin\Debug\net8.0-windows\PSP04_ TE1_PeliculasBirt.pdb
+C:\Users\Sara D'Alessio\Documents\BIRT\DAM\PSP\PSP04_ TE1_PeliculasBirt\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\Sara D'Alessio\Documents\BIRT\DAM\PSP\PSP04_ TE1_PeliculasBirt\obj\Debug\net8.0-windows\PSP04_ T.3C4006FC.Up2Date
+C:\Users\Sara D'Alessio\Documents\BIRT\DAM\PSP\PSP04_ TE1_PeliculasBirt\obj\Debug\net8.0-windows\PSP04_ TE1_PeliculasBirt.dll
+C:\Users\Sara D'Alessio\Documents\BIRT\DAM\PSP\PSP04_ TE1_PeliculasBirt\obj\Debug\net8.0-windows\refint\PSP04_ TE1_PeliculasBirt.dll
+C:\Users\Sara D'Alessio\Documents\BIRT\DAM\PSP\PSP04_ TE1_PeliculasBirt\obj\Debug\net8.0-windows\PSP04_ TE1_PeliculasBirt.pdb
+C:\Users\Sara D'Alessio\Documents\BIRT\DAM\PSP\PSP04_ TE1_PeliculasBirt\obj\Debug\net8.0-windows\PSP04_ TE1_PeliculasBirt.genruntimeconfig.cache
+C:\Users\Sara D'Alessio\Documents\BIRT\DAM\PSP\PSP04_ TE1_PeliculasBirt\obj\Debug\net8.0-windows\ref\PSP04_ TE1_PeliculasBirt.dll
+C:\Users\Sara D'Alessio\Documents\BIRT\DAM\PSP\PSP04_ TE1_PeliculasBirt\bin\Debug\net8.0-windows\MailKit.dll
+C:\Users\Sara D'Alessio\Documents\BIRT\DAM\PSP\PSP04_ TE1_PeliculasBirt\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Sara D'Alessio\Documents\BIRT\DAM\PSP\PSP04_ TE1_PeliculasBirt\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Sara D'Alessio\Documents\BIRT\DAM\PSP\PSP04_ TE1_PeliculasBirt\bin\Debug\net8.0-windows\MimeKit.dll
+C:\Users\Sara D'Alessio\Documents\BIRT\DAM\PSP\PSP04_ TE1_PeliculasBirt\bin\Debug\net8.0-windows\NETCore.MailKit.dll
+C:\Users\Sara D'Alessio\Documents\BIRT\DAM\PSP\PSP04_ TE1_PeliculasBirt\bin\Debug\net8.0-windows\BouncyCastle.Crypto.dll
