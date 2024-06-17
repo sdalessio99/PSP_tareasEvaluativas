@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>PSP05_TE1_GestorPass</id>
+    <version>1.0.0</version>
+    <authors>PSP05_TE1_GestorPass</authors>
+    <description>Package Description</description>
+    <repository type="git" />
+    <dependencies>
+      <group targetFramework="net8.0-windows7.0">
+        <dependency id="NETCore.MailKit" version="2.1.0" exclude="Build,Analyzers" />
+        <dependency id="Newtonsoft.Json" version="13.0.3" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+    <frameworkReferences>
+      <group targetFramework="net8.0-windows7.0">
+        <frameworkReference name="Microsoft.WindowsDesktop.App.WindowsForms" />
+      </group>
+    </frameworkReferences>
+  </metadata>
+  <files>
+    <file src="C:\Users\Sara D'Alessio\Documents\BIRT\DAM\PSP\PSP05_TE1_GestorPass\bin\Debug\net8.0-windows\PSP05_TE1_GestorPass.runtimeconfig.json" target="lib\net8.0-windows7.0\PSP05_TE1_GestorPass.runtimeconfig.json" />
+    <file src="C:\Users\Sara D'Alessio\Documents\BIRT\DAM\PSP\PSP05_TE1_GestorPass\bin\Debug\net8.0-windows\PSP05_TE1_GestorPass.dll" target="lib\net8.0-windows7.0\PSP05_TE1_GestorPass.dll" />
+  </files>
+</package>
