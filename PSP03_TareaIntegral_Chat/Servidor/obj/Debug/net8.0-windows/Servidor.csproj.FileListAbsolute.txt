@@ -1,0 +1,17 @@
+C:\Users\Sara D'Alessio\Documents\BIRT\DAM\PSP\PSP03_TareaIntegral_Chat\Servidor\obj\Debug\net8.0-windows\Servidor.Properties.Resources.resources
+C:\Users\Sara D'Alessio\Documents\BIRT\DAM\PSP\PSP03_TareaIntegral_Chat\Servidor\obj\Debug\net8.0-windows\Servidor.Servidor.resources
+C:\Users\Sara D'Alessio\Documents\BIRT\DAM\PSP\PSP03_TareaIntegral_Chat\Servidor\obj\Debug\net8.0-windows\Servidor.csproj.GenerateResource.cache
+C:\Users\Sara D'Alessio\Documents\BIRT\DAM\PSP\PSP03_TareaIntegral_Chat\Servidor\obj\Debug\net8.0-windows\Servidor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sara D'Alessio\Documents\BIRT\DAM\PSP\PSP03_TareaIntegral_Chat\Servidor\obj\Debug\net8.0-windows\Servidor.AssemblyInfoInputs.cache
+C:\Users\Sara D'Alessio\Documents\BIRT\DAM\PSP\PSP03_TareaIntegral_Chat\Servidor\obj\Debug\net8.0-windows\Servidor.AssemblyInfo.cs
+C:\Users\Sara D'Alessio\Documents\BIRT\DAM\PSP\PSP03_TareaIntegral_Chat\Servidor\obj\Debug\net8.0-windows\Servidor.csproj.CoreCompileInputs.cache
+C:\Users\Sara D'Alessio\Documents\BIRT\DAM\PSP\PSP03_TareaIntegral_Chat\Servidor\bin\Debug\net8.0-windows\Servidor.exe
+C:\Users\Sara D'Alessio\Documents\BIRT\DAM\PSP\PSP03_TareaIntegral_Chat\Servidor\bin\Debug\net8.0-windows\Servidor.deps.json
+C:\Users\Sara D'Alessio\Documents\BIRT\DAM\PSP\PSP03_TareaIntegral_Chat\Servidor\bin\Debug\net8.0-windows\Servidor.runtimeconfig.json
+C:\Users\Sara D'Alessio\Documents\BIRT\DAM\PSP\PSP03_TareaIntegral_Chat\Servidor\bin\Debug\net8.0-windows\Servidor.dll
+C:\Users\Sara D'Alessio\Documents\BIRT\DAM\PSP\PSP03_TareaIntegral_Chat\Servidor\bin\Debug\net8.0-windows\Servidor.pdb
+C:\Users\Sara D'Alessio\Documents\BIRT\DAM\PSP\PSP03_TareaIntegral_Chat\Servidor\obj\Debug\net8.0-windows\Servidor.dll
+C:\Users\Sara D'Alessio\Documents\BIRT\DAM\PSP\PSP03_TareaIntegral_Chat\Servidor\obj\Debug\net8.0-windows\refint\Servidor.dll
+C:\Users\Sara D'Alessio\Documents\BIRT\DAM\PSP\PSP03_TareaIntegral_Chat\Servidor\obj\Debug\net8.0-windows\Servidor.pdb
+C:\Users\Sara D'Alessio\Documents\BIRT\DAM\PSP\PSP03_TareaIntegral_Chat\Servidor\obj\Debug\net8.0-windows\Servidor.genruntimeconfig.cache
+C:\Users\Sara D'Alessio\Documents\BIRT\DAM\PSP\PSP03_TareaIntegral_Chat\Servidor\obj\Debug\net8.0-windows\ref\Servidor.dll
