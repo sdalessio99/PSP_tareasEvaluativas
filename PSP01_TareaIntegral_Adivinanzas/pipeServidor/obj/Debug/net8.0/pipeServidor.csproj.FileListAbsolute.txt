@@ -1,0 +1,14 @@
+C:\Users\Sara D'Alessio\Documents\BIRT\DAM\PSP\PSP01_TareaIntegral_Adivinanzas\pipeServidor\bin\Debug\net8.0\pipeServidor.exe
+C:\Users\Sara D'Alessio\Documents\BIRT\DAM\PSP\PSP01_TareaIntegral_Adivinanzas\pipeServidor\bin\Debug\net8.0\pipeServidor.deps.json
+C:\Users\Sara D'Alessio\Documents\BIRT\DAM\PSP\PSP01_TareaIntegral_Adivinanzas\pipeServidor\bin\Debug\net8.0\pipeServidor.runtimeconfig.json
+C:\Users\Sara D'Alessio\Documents\BIRT\DAM\PSP\PSP01_TareaIntegral_Adivinanzas\pipeServidor\bin\Debug\net8.0\pipeServidor.dll
+C:\Users\Sara D'Alessio\Documents\BIRT\DAM\PSP\PSP01_TareaIntegral_Adivinanzas\pipeServidor\bin\Debug\net8.0\pipeServidor.pdb
+C:\Users\Sara D'Alessio\Documents\BIRT\DAM\PSP\PSP01_TareaIntegral_Adivinanzas\pipeServidor\obj\Debug\net8.0\pipeServidor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sara D'Alessio\Documents\BIRT\DAM\PSP\PSP01_TareaIntegral_Adivinanzas\pipeServidor\obj\Debug\net8.0\pipeServidor.AssemblyInfoInputs.cache
+C:\Users\Sara D'Alessio\Documents\BIRT\DAM\PSP\PSP01_TareaIntegral_Adivinanzas\pipeServidor\obj\Debug\net8.0\pipeServidor.AssemblyInfo.cs
+C:\Users\Sara D'Alessio\Documents\BIRT\DAM\PSP\PSP01_TareaIntegral_Adivinanzas\pipeServidor\obj\Debug\net8.0\pipeServidor.csproj.CoreCompileInputs.cache
+C:\Users\Sara D'Alessio\Documents\BIRT\DAM\PSP\PSP01_TareaIntegral_Adivinanzas\pipeServidor\obj\Debug\net8.0\pipeServidor.dll
+C:\Users\Sara D'Alessio\Documents\BIRT\DAM\PSP\PSP01_TareaIntegral_Adivinanzas\pipeServidor\obj\Debug\net8.0\refint\pipeServidor.dll
+C:\Users\Sara D'Alessio\Documents\BIRT\DAM\PSP\PSP01_TareaIntegral_Adivinanzas\pipeServidor\obj\Debug\net8.0\pipeServidor.pdb
+C:\Users\Sara D'Alessio\Documents\BIRT\DAM\PSP\PSP01_TareaIntegral_Adivinanzas\pipeServidor\obj\Debug\net8.0\pipeServidor.genruntimeconfig.cache
+C:\Users\Sara D'Alessio\Documents\BIRT\DAM\PSP\PSP01_TareaIntegral_Adivinanzas\pipeServidor\obj\Debug\net8.0\ref\pipeServidor.dll

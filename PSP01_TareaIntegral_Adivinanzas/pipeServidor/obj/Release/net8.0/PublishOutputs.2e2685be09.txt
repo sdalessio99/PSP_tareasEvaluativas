@@ -1,0 +1,5 @@
+C:\Users\Sara D'Alessio\Documents\BIRT\DAM\PSP\PSP01_TareaIntegral_Adivinanzas\pipeServidor\bin\Release\net8.0\publish\pipeServidor.exe
+C:\Users\Sara D'Alessio\Documents\BIRT\DAM\PSP\PSP01_TareaIntegral_Adivinanzas\pipeServidor\bin\Release\net8.0\publish\pipeServidor.dll
+C:\Users\Sara D'Alessio\Documents\BIRT\DAM\PSP\PSP01_TareaIntegral_Adivinanzas\pipeServidor\bin\Release\net8.0\publish\pipeServidor.deps.json
+C:\Users\Sara D'Alessio\Documents\BIRT\DAM\PSP\PSP01_TareaIntegral_Adivinanzas\pipeServidor\bin\Release\net8.0\publish\pipeServidor.runtimeconfig.json
+C:\Users\Sara D'Alessio\Documents\BIRT\DAM\PSP\PSP01_TareaIntegral_Adivinanzas\pipeServidor\bin\Release\net8.0\publish\pipeServidor.pdb
