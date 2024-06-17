@@ -1,0 +1,16 @@
+C:\Users\Sara D'Alessio\Documents\BIRT\DAM\PSP\CarreraCaballos\bin\Debug\net8.0-windows\CarreraCaballos.exe
+C:\Users\Sara D'Alessio\Documents\BIRT\DAM\PSP\CarreraCaballos\bin\Debug\net8.0-windows\CarreraCaballos.deps.json
+C:\Users\Sara D'Alessio\Documents\BIRT\DAM\PSP\CarreraCaballos\bin\Debug\net8.0-windows\CarreraCaballos.runtimeconfig.json
+C:\Users\Sara D'Alessio\Documents\BIRT\DAM\PSP\CarreraCaballos\bin\Debug\net8.0-windows\CarreraCaballos.dll
+C:\Users\Sara D'Alessio\Documents\BIRT\DAM\PSP\CarreraCaballos\bin\Debug\net8.0-windows\CarreraCaballos.pdb
+C:\Users\Sara D'Alessio\Documents\BIRT\DAM\PSP\CarreraCaballos\obj\Debug\net8.0-windows\CarreraCaballos.Form1.resources
+C:\Users\Sara D'Alessio\Documents\BIRT\DAM\PSP\CarreraCaballos\obj\Debug\net8.0-windows\CarreraCaballos.csproj.GenerateResource.cache
+C:\Users\Sara D'Alessio\Documents\BIRT\DAM\PSP\CarreraCaballos\obj\Debug\net8.0-windows\CarreraCaballos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sara D'Alessio\Documents\BIRT\DAM\PSP\CarreraCaballos\obj\Debug\net8.0-windows\CarreraCaballos.AssemblyInfoInputs.cache
+C:\Users\Sara D'Alessio\Documents\BIRT\DAM\PSP\CarreraCaballos\obj\Debug\net8.0-windows\CarreraCaballos.AssemblyInfo.cs
+C:\Users\Sara D'Alessio\Documents\BIRT\DAM\PSP\CarreraCaballos\obj\Debug\net8.0-windows\CarreraCaballos.csproj.CoreCompileInputs.cache
+C:\Users\Sara D'Alessio\Documents\BIRT\DAM\PSP\CarreraCaballos\obj\Debug\net8.0-windows\CarreraCaballos.dll
+C:\Users\Sara D'Alessio\Documents\BIRT\DAM\PSP\CarreraCaballos\obj\Debug\net8.0-windows\refint\CarreraCaballos.dll
+C:\Users\Sara D'Alessio\Documents\BIRT\DAM\PSP\CarreraCaballos\obj\Debug\net8.0-windows\CarreraCaballos.pdb
+C:\Users\Sara D'Alessio\Documents\BIRT\DAM\PSP\CarreraCaballos\obj\Debug\net8.0-windows\CarreraCaballos.genruntimeconfig.cache
+C:\Users\Sara D'Alessio\Documents\BIRT\DAM\PSP\CarreraCaballos\obj\Debug\net8.0-windows\ref\CarreraCaballos.dll

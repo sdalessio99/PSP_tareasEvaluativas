@@ -1,0 +1,14 @@
+C:\Users\Sara D'Alessio\Documents\BIRT\DAM\PSP\ErosBirt\obj\Debug\net8.0\ErosBirt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sara D'Alessio\Documents\BIRT\DAM\PSP\ErosBirt\obj\Debug\net8.0\ErosBirt.AssemblyInfoInputs.cache
+C:\Users\Sara D'Alessio\Documents\BIRT\DAM\PSP\ErosBirt\obj\Debug\net8.0\ErosBirt.AssemblyInfo.cs
+C:\Users\Sara D'Alessio\Documents\BIRT\DAM\PSP\ErosBirt\obj\Debug\net8.0\ErosBirt.csproj.CoreCompileInputs.cache
+C:\Users\Sara D'Alessio\Documents\BIRT\DAM\PSP\ErosBirt\bin\Debug\net8.0\ErosBirt.exe
+C:\Users\Sara D'Alessio\Documents\BIRT\DAM\PSP\ErosBirt\bin\Debug\net8.0\ErosBirt.deps.json
+C:\Users\Sara D'Alessio\Documents\BIRT\DAM\PSP\ErosBirt\bin\Debug\net8.0\ErosBirt.runtimeconfig.json
+C:\Users\Sara D'Alessio\Documents\BIRT\DAM\PSP\ErosBirt\bin\Debug\net8.0\ErosBirt.dll
+C:\Users\Sara D'Alessio\Documents\BIRT\DAM\PSP\ErosBirt\bin\Debug\net8.0\ErosBirt.pdb
+C:\Users\Sara D'Alessio\Documents\BIRT\DAM\PSP\ErosBirt\obj\Debug\net8.0\ErosBirt.dll
+C:\Users\Sara D'Alessio\Documents\BIRT\DAM\PSP\ErosBirt\obj\Debug\net8.0\refint\ErosBirt.dll
+C:\Users\Sara D'Alessio\Documents\BIRT\DAM\PSP\ErosBirt\obj\Debug\net8.0\ErosBirt.pdb
+C:\Users\Sara D'Alessio\Documents\BIRT\DAM\PSP\ErosBirt\obj\Debug\net8.0\ErosBirt.genruntimeconfig.cache
+C:\Users\Sara D'Alessio\Documents\BIRT\DAM\PSP\ErosBirt\obj\Debug\net8.0\ref\ErosBirt.dll
